@@ -1,4 +1,4 @@
-Hi, I’m @aldenox, living in beautiful Switzerland.
+Hi, I’m @aldenox. Living in beautiful Switzerland.
 I’m interested in IOTA and Microsoft Technologies. 👀
 
 <!---
