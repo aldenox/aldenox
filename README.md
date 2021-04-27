@@ -1,5 +1,5 @@
 Hi, I’m @aldenox. Living in beautiful Switzerland.
-I’m interested in IOTA and Microsoft Technologies. 👀
+I’m interested in Blockchain and Microsoft Technologies. 👀
 
 <!---
 aldenox/aldenox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
