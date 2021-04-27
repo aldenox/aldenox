@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aldenox.
-- 👀 I’m interested in IOTA and Microsoft Technologies.
-- 📫 How to reach me: dennis.alberti@hochrhein-engineering.com
+Hi, I’m @aldenox, living in beautiful Switzerland.
+I’m interested in IOTA and Microsoft Technologies. 👀
 
 <!---
 aldenox/aldenox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
